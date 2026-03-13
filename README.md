@@ -5,16 +5,6 @@
 - 🚀 32 repositories and growing!
 - 📫 Reach me on [GitHub](https://github.com/basilio-joseph-lee)
 
----
-
-## 📊 GitHub Stats
-
-![Basilio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=basilio-joseph-lee&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basilio-joseph-lee&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
