@@ -2,7 +2,7 @@
 
 Based in the Philippines &nbsp;|&nbsp; 💡 Passionate about building end-to-end solutions
 
-`Full-Stack Web Developer` | `Mobile App Developer` | `Flutter Intern @ BMware`
+`Full-Stack Web Developer` | `Mobile App Developer` 
 
 > I build and ship **end-to-end web & mobile apps** — from UI to backend to deployment.
 > Currently growing as a **Flutter Mobile Developer intern at BMware Business Solutions Enterprises Inc.**,
@@ -20,25 +20,6 @@ Based in the Philippines &nbsp;|&nbsp; 💡 Passionate about building end-to-end
 - Collaborating with the development team on real client-facing products
 - Gaining hands-on experience with mobile UI/UX, state management, and API integration
 - Contributing to an agile software development environment
-
----
-
-## 📊 At a Glance
-
-| 🗓️ Experience | 📱 Internship | 🚀 Projects | 🌱 Currently |
-|:-:|:-:|:-:|:-:|
-| 3+ Years Building | Flutter Dev @ BMware | 10+ Shipped | AI Integrations |
-
----
-
-## 🔨 Currently
-
-- 🏢 &nbsp;Interning as **Flutter Mobile Developer** at **BMware Business Solutions Enterprises Inc.**
-- 📖 &nbsp;Deepening skills in **Flutter, Dart, and mobile architecture patterns**
-- 🤖 &nbsp;Exploring **AI integrations** for real-world products
-- 🤝 &nbsp;Open to **freelance projects** and **full-time opportunities** after internship
-
----
 
 ## 📬 Connect With Me
 
