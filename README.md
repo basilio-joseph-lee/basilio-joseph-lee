@@ -14,15 +14,6 @@
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/basiliojosephlee)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/basilio-joseph-lee)
 
----
-
-## 📊 GitHub Stats
-
-![Basilio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=basilio-joseph-lee&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basilio-joseph-lee&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 🛠️ Tech Stack
 
