@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Basilio Joseph Lee!
 
-- 🎓 IT Student from the **Philippines**
-- 🌐 Frontend & Backend Developer
-- 🚀 32 repositories and growing!
-- 📫 Reach me at **basiliojoseph550@gmail.com**
+🇵🇭 Based in the Philippines &nbsp;|&nbsp; 💡 Passionate about building end-to-end solutions
 
+`Full-Stack Web Developer` | `Mobile App Developer` 
+
+I build interactive, user-friendly web and mobile systems end-to-end — 
+UI, backend, and deployment. Always exploring new technologies and 
+eager to integrate AI into products that solve real problems.
 ---
 
 ## 📬 Connect With Me
