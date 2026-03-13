@@ -2,7 +2,7 @@
 
 Based in the Philippines &nbsp;|&nbsp; 💡 Passionate about building end-to-end solutions
 
-`Full-Stack Web Developer` | `Mobile App Developer` 
+`Web Developer` | `Mobile App Developer` 
 
 I build interactive, user-friendly web and mobile systems end-to-end —
 UI, backend, and deployment. Always exploring new technologies and
