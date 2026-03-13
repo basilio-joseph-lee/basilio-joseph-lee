@@ -2,11 +2,41 @@
 
 Based in the Philippines &nbsp;|&nbsp; 💡 Passionate about building end-to-end solutions
 
-`Full-Stack Web Developer` | `Mobile App Developer`
+`Full-Stack Web Developer` | `Mobile App Developer` | `Flutter Intern @ BMware`
 
-I build interactive, user-friendly web and mobile systems end-to-end —
-UI, backend, and deployment. Always exploring new technologies and
-eager to integrate AI into products that solve real problems.
+> I build and ship **end-to-end web & mobile apps** — from UI to backend to deployment.
+> Currently growing as a **Flutter Mobile Developer intern at BMware Business Solutions Enterprises Inc.**,
+> where I'm building real-world mobile solutions. Always exploring new technologies and eager to
+> integrate AI into products that solve real problems.
+
+---
+
+## 💼 Experience
+
+### 📱 Flutter Mobile Developer Intern — [BMware Business Solutions Enterprises Inc.](https://www.facebook.com/BMwareBusinessSolutionsEnterprisesInc)
+**Dec 2024 – Present &nbsp;|&nbsp; Philippines (I.T. Consultancy & Software Company)**
+
+- Developing and maintaining cross-platform mobile applications using **Flutter & Dart**
+- Collaborating with the development team on real client-facing products
+- Gaining hands-on experience with mobile UI/UX, state management, and API integration
+- Contributing to an agile software development environment
+
+---
+
+## 📊 At a Glance
+
+| 🗓️ Experience | 📱 Internship | 🚀 Projects | 🌱 Currently |
+|:-:|:-:|:-:|:-:|
+| 3+ Years Building | Flutter Dev @ BMware | 10+ Shipped | AI Integrations |
+
+---
+
+## 🔨 Currently
+
+- 🏢 &nbsp;Interning as **Flutter Mobile Developer** at **BMware Business Solutions Enterprises Inc.**
+- 📖 &nbsp;Deepening skills in **Flutter, Dart, and mobile architecture patterns**
+- 🤖 &nbsp;Exploring **AI integrations** for real-world products
+- 🤝 &nbsp;Open to **freelance projects** and **full-time opportunities** after internship
 
 ---
 
@@ -21,17 +51,20 @@ eager to integrate AI into products that solve real problems.
 
 ## 🛠️ Tech Stack
 
+### 🎯 Currently Focused On
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 ### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### ⚙️ Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,10 +75,10 @@ eager to integrate AI into products that solve real problems.
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🚀 Deployment & Services
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🔧 Tools
@@ -56,4 +89,13 @@ eager to integrate AI into products that solve real problems.
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=basilio-joseph-lee&color=e8425a&style=flat-square)
+## 📈 GitHub Stats
+
+![Basilio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=basilio-joseph-lee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basilio-joseph-lee&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=basilio-joseph-lee&theme=tokyonight&hide_border=true)
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=basilio-joseph-lee&color=e8425a&style=flat-square&label=Profile+Views)
