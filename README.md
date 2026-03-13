@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Basilio Joseph Lee!
 
-🇵🇭 Based in the Philippines &nbsp;|&nbsp; 💡 Passionate about building end-to-end solutions
+Based in the Philippines &nbsp;|&nbsp; 💡 Passionate about building end-to-end solutions
 
 `Full-Stack Web Developer` | `Mobile App Developer`
 
