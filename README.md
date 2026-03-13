@@ -69,13 +69,4 @@ eager to integrate AI into products that solve real problems.
 
 ---
 
-## 📈 GitHub Stats
-
-![Basilio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=basilio-joseph-lee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basilio-joseph-lee&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=basilio-joseph-lee&theme=tokyonight&hide_border=true)
-
----
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=basilio-joseph-lee&color=e8425a&style=flat-square&label=Profile+Views)
