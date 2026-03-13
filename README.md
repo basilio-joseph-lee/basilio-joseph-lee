@@ -2,11 +2,12 @@
 
 🇵🇭 Based in the Philippines &nbsp;|&nbsp; 💡 Passionate about building end-to-end solutions
 
-`Full-Stack Web Developer` | `Mobile App Developer` 
+`Full-Stack Web Developer` | `Mobile App Developer`
 
-I build interactive, user-friendly web and mobile systems end-to-end — 
-UI, backend, and deployment. Always exploring new technologies and 
+I build interactive, user-friendly web and mobile systems end-to-end —
+UI, backend, and deployment. Always exploring new technologies and
 eager to integrate AI into products that solve real problems.
+
 ---
 
 ## 📬 Connect With Me
@@ -16,6 +17,7 @@ eager to integrate AI into products that solve real problems.
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/basiliojosephlee)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/basilio-joseph-lee)
 
+---
 
 ## 🛠️ Tech Stack
 
