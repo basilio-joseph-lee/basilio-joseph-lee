@@ -13,7 +13,7 @@ eager to integrate AI into products that solve real problems.
 ## 💼 Experience
 
 ### 📱 Flutter Mobile Developer Intern — [BMware Business Solutions Enterprises Inc.](https://www.facebook.com/BMwareBusinessSolutionsEnterprisesInc)
-**Dec 2024 – Present &nbsp;|&nbsp; Philippines (I.T. Consultancy & Software Company)**
+**Dec 2025 – Present &nbsp;|&nbsp; Philippines (I.T. Consultancy & Software Company)**
 
 - Developed and published a **mobile app now live on Google Play Store** — handling the full deployment pipeline through Google Play Console
 - Developed a **mobile game** using Flutter, contributing to game logic, UI, and user experience
