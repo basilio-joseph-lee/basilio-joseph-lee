@@ -1,21 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=160&text=Basilio%20Joseph%20Lee&fontColor=ffffff&fontSize=38&fontAlignY=45&desc=Web%20Developer%20%7C%20Mobile%20App%20Developer&descSize=15&descColor=8b949e&descAlignY=68" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:0d1117,70:0d2340,100:0d1117&height=260&text=Basilio%20Joseph%20Lee&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=%3Cdeveloper%20%2F%3E&descSize=18&descColor=58a6ff&descAlignY=60&animation=twinkling&stroke=58a6ff&strokeWidth=1" />
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Flutter+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Django;Always+building+something+new+%E2%9C%A6;Open+to+freelance+%26+full-time;Integrating+AI+into+real+products" alt="Typing SVG" />
+
+</div>
 
 <br/>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Flutter+%7C+React+%7C+Next.js+%7C+Django;I+build+for+web+%26+mobile;Open+to+freelance+%26+full-time+opportunities" alt="Typing SVG" />
-</p>
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:basiliojoseph550@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/basilio-joseph-lee)
+[![Upwork](https://img.shields.io/badge/Upwork-161b22?style=for-the-badge&logo=upwork&logoColor=58a6ff)](https://www.upwork.com/freelancers/basiliojosephlee)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/basilio-joseph-lee)
+
+</div>
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=0d1117)](mailto:basiliojoseph550@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117)](https://www.linkedin.com/in/basilio-joseph-lee)
-[![Upwork](https://img.shields.io/badge/Upwork-0d1117?style=for-the-badge&logo=upwork&logoColor=58a6ff&labelColor=0d1117)](https://www.upwork.com/freelancers/basiliojosephlee)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=0d1117)](https://github.com/basilio-joseph-lee)
-
-<br/>
+<div align="center">
 
 > 💡 *I build interactive, user-friendly web and mobile applications —*
 > *always exploring new technologies and eager to integrate AI into products that solve real problems.*
