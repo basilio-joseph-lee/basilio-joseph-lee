@@ -11,7 +11,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:basiliojoseph550@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/basilio-joseph-lee)
 [![Upwork](https://img.shields.io/badge/Upwork-161b22?style=for-the-badge&logo=upwork&logoColor=58a6ff)](https://www.upwork.com/freelancers/basiliojosephlee)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/basilio-joseph-lee)
 
 </div>
 
