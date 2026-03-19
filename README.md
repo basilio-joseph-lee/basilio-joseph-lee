@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Basilio%20Joseph%20Lee&fontSize=42&fontColor=f0f9ff&fontAlignY=38&desc=Web%20Developer%20%7C%20Mobile%20App%20Developer&descSize=16&descColor=bae6fd&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=160&text=Basilio%20Joseph%20Lee&fontColor=ffffff&fontSize=38&fontAlignY=45&desc=Web%20Developer%20%7C%20Mobile%20App%20Developer&descSize=15&descColor=8b949e&descAlignY=68" />
 
 <br/>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Flutter+%7C+React+%7C+Next.js+%7C+Django;I+build+for+web+%26+mobile+%F0%9F%93%B1%F0%9F%92%BB;Open+to+freelance+%26+full-time+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Flutter+%7C+React+%7C+Next.js+%7C+Django;I+build+for+web+%26+mobile;Open+to+freelance+%26+full-time+opportunities" alt="Typing SVG" />
 </p>
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=0ea5e9)](mailto:basiliojoseph550@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0ea5e9)](https://www.linkedin.com/in/basilio-joseph-lee)
-[![Upwork](https://img.shields.io/badge/Upwork-0f172a?style=for-the-badge&logo=upwork&logoColor=0ea5e9)](https://www.upwork.com/freelancers/basiliojosephlee)
-[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=0ea5e9)](https://github.com/basilio-joseph-lee)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=0d1117)](mailto:basiliojoseph550@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117)](https://www.linkedin.com/in/basilio-joseph-lee)
+[![Upwork](https://img.shields.io/badge/Upwork-0d1117?style=for-the-badge&logo=upwork&logoColor=58a6ff&labelColor=0d1117)](https://www.upwork.com/freelancers/basiliojosephlee)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=0d1117)](https://github.com/basilio-joseph-lee)
 
 <br/>
 
@@ -38,40 +38,14 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-### 📱 Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React Native" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,tailwind,html,css,bootstrap,python,django,php,mysql,postgres,supabase,vercel,render,git,github,vscode,androidstudio,postman&theme=dark&perline=11" />
 </p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,bootstrap&theme=dark" />
-</p>
-
-### ⚙️ Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,php,mysql,postgres,postman&theme=dark" />
-</p>
-
-### 🚀 Deployment & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=supabase,vercel,render&theme=dark" />
-</p>
-
-### 🔧 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark" />
-</p>
-
-</div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a5f,100:0f172a&height=120&section=footer&animation=fadeIn" />
 
-  ![Visitor Count](https://komarev.com/ghpvc/?username=basilio-joseph-lee&color=0ea5e9&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=basilio-joseph-lee&color=58a6ff&style=flat-square&label=Profile+Views)
+
 </div>
