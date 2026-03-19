@@ -33,7 +33,7 @@ Automates subscription tracking by monitoring due dates, sending timely email re
 <div align="center">
 <img src="AU.png" alt="Subscription Reminder Automation" width="700"/>
 </div>
-### 🏥 Clinic Management System
+🏥 Clinic Management System
 Designed and implemented a system to manage patient records, admissions, and inventory, improving clinic efficiency and data accuracy.
  
  
