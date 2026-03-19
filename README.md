@@ -12,13 +12,12 @@
 I build interactive, user-friendly web and mobile applications — always exploring new technologies and eager to integrate AI into products that solve real problems.
 ---
 ## 💼 Experience
-### 📱 Flutter Mobile Developer Intern — [BMware Business Solutions Enterprises Inc.](https://www.facebook.com/BMwareBusinessSolutionsEnterprisesInc)
-**Dec 2025 – Present &nbsp;|&nbsp; Philippines (I.T. Consultancy & Software Company)**
-- 🚀 Developed and published a **mobile app now live on Google Play Store** — handling the full deployment pipeline through Google Play Console
-- 🎮 Developed a **mobile game** using Flutter, contributing to game logic, UI, and user experience
-- 📱 Built and maintained cross-platform mobile applications with real client-facing features using **Flutter & Dart**
-- 🤝 Worked with the team on **mobile UI/UX, state management, and REST API integration** across production-grade projects
----
+### 📱 Flutter Mobile Developer Intern— BMware Business Solutions Enterprises Inc.
+Developed and published a mobile app now live on Google Play Store — handling the full deployment pipeline through Google Play Console
+Developed a mobile game using Flutter, contributing to game logic, UI, and user experience
+Built and maintained cross-platform mobile applications with real client-facing features using Flutter & Dart
+Worked with the team on mobile UI/UX, state management, and REST API integration across production-grade projects
+Dec 2025 – Present | Philippines (I.T. Consultancy & Software Company)
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,tailwind,html,css,bootstrap,python,django,php&theme=dark&perline=12" />
