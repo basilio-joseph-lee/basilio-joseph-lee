@@ -38,7 +38,7 @@ I build interactive, user-friendly web and mobile applications — always explor
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,tailwind,html,css,bootstrap,python,django,php,mysql,postgres,wordpress,supabase,vercel,render,git,github,vscode,androidstudio,postman&theme=dark&perline=11" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,tailwind,html,css,bootstrap,python,django,php,mysql,postgres,wordpress,supabase,vercel,render,git,github,vscode,androidstudio,postman&theme=dark&perline=8" />
 </p>
 
 ---
