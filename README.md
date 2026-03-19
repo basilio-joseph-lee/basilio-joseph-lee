@@ -2,15 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0d1f35,50:0d2a4a,75:0d1f35,100:0d1117&height=240&section=header&text=Basilio%20Joseph%20Lee&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=Web%20Developer%20%E2%80%A2%20Mobile%20App%20Developer&descSize=16&descColor=58A6FF&descAlignY=60&animation=twinkling&stroke=58A6FF&strokeWidth=0.5" />
 
-<br/>
 
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=520&lines=Flutter+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Django;Always+exploring+new+technologies+%E2%9C%A6;Eager+to+integrate+AI+into+products;Open+to+freelance+%26+full-time+opportunities" alt="Typing SVG" />
-
 <br/>
-
-<br/><br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:basiliojoseph550@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/basilio-joseph-lee)
