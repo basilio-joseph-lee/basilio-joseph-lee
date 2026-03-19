@@ -4,20 +4,11 @@
 
 <br/>
 
-![Hello World](https://img.shields.io/badge/👋_Hello,_World!-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117)
-
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=520&lines=Flutter+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Django;Always+exploring+new+technologies+%E2%9C%A6;Eager+to+integrate+AI+into+products;Open+to+freelance+%26+full-time+opportunities" alt="Typing SVG" />
 
 <br/>
-
-![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=58a6ff&labelColor=161b22)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=58a6ff&labelColor=161b22)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=58a6ff&labelColor=161b22)
-![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=58a6ff&labelColor=161b22)
-![Philippines](https://img.shields.io/badge/📍_Philippines-161b22?style=flat-square&color=161b22&labelColor=161b22&logoColor=8b949e)
-![Open](https://img.shields.io/badge/🟢_Open_to_Opportunities-161b22?style=flat-square&color=161b22&labelColor=161b22)
 
 <br/><br/>
 
