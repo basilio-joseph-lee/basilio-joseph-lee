@@ -19,6 +19,18 @@ I build interactive, user-friendly web and mobile applications — always explor
 
 ---
 
+## 💼 Experience
+
+### 📱 Flutter Mobile Developer Intern — [BMware Business Solutions Enterprises Inc.](https://www.facebook.com/BMwareBusinessSolutionsEnterprisesInc)
+**Dec 2025 – Present &nbsp;|&nbsp; Philippines (I.T. Consultancy & Software Company)**
+
+- 🚀 Developed and published a **mobile app now live on Google Play Store** — handling the full deployment pipeline through Google Play Console
+- 🎮 Developed a **mobile game** using Flutter, contributing to game logic, UI, and user experience
+- 📱 Built and maintained cross-platform mobile applications with real client-facing features using **Flutter & Dart**
+- 🤝 Worked with the team on **mobile UI/UX, state management, and REST API integration** across production-grade projects
+
+---
+
 ## 🚀 Projects
 
 ### 🏆 Interactive Classroom Management System *(Capstone · 2024)*
@@ -35,18 +47,6 @@ Automates subscription tracking by monitoring due dates, sending timely email re
 
 ### 🏥 Clinic Management System
 Designed and implemented a system to manage patient records, admissions, and inventory, improving clinic efficiency and data accuracy.
-
----
-
-## 💼 Experience
-
-### 📱 Flutter Mobile Developer Intern — [BMware Business Solutions Enterprises Inc.](https://www.facebook.com/BMwareBusinessSolutionsEnterprisesInc)
-**Dec 2025 – Present &nbsp;|&nbsp; Philippines (I.T. Consultancy & Software Company)**
-
-- 🚀 Developed and published a **mobile app now live on Google Play Store** — handling the full deployment pipeline through Google Play Console
-- 🎮 Developed a **mobile game** using Flutter, contributing to game logic, UI, and user experience
-- 📱 Built and maintained cross-platform mobile applications with real client-facing features using **Flutter & Dart**
-- 🤝 Worked with the team on **mobile UI/UX, state management, and REST API integration** across production-grade projects
 
 ---
 
