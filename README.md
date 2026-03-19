@@ -30,12 +30,12 @@ I build interactive, user-friendly web and mobile applications — always explor
 Developed an interactive classroom management system that enhances engagement and efficiency through 2D animations, mobile accessibility, and a kiosk-based interface. Streamlined attendance tracking, announcements, grading, and game-based performance activities.
 ### ⚡ Subscription Reminder Automation *(Automation & AI Integration)*
 Automates subscription tracking by monitoring due dates, sending timely email reminders, and updating statuses — eliminating manual work and reducing missed payments. Built to scale and expandable with AI for personalized reminders, smarter notification timing, and automated billing triggers.
-### 🏥 Clinic Management System
-Designed and implemented a system to manage patient records, admissions, and inventory, improving clinic efficiency and data accuracy.
- 
 <div align="center">
 <img src="AU.png" alt="Subscription Reminder Automation" width="700"/>
 </div>
+### 🏥 Clinic Management System
+Designed and implemented a system to manage patient records, admissions, and inventory, improving clinic efficiency and data accuracy.
+ 
  
 ---
 
