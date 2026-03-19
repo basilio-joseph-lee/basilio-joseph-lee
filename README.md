@@ -22,6 +22,23 @@ I build interactive, user-friendly web and mobile applications — always explor
 
 ---
 
+---
+## 🚀 Projects
+### 🏆 Interactive Classroom Management System *(Capstone · 2024)*
+> 🥇 Best in System &nbsp;·&nbsp; Best in Research Paper &nbsp;·&nbsp; Best Presenter &nbsp;·&nbsp; Best Project for Community Extension &nbsp;·&nbsp; **Overall Best Project**
+ 
+Developed an interactive classroom management system that enhances engagement and efficiency through 2D animations, mobile accessibility, and a kiosk-based interface. Streamlined attendance tracking, announcements, grading, and game-based performance activities.
+### 🏥 Clinic Management System
+Designed and implemented a system to manage patient records, admissions, and inventory, improving clinic efficiency and data accuracy.
+### ⚡ Subscription Reminder Automation *(Automation & AI Integration)*
+Automates subscription tracking by monitoring due dates, sending timely email reminders, and updating statuses — eliminating manual work and reducing missed payments. Built to scale and expandable with AI for personalized reminders, smarter notification timing, and automated billing triggers.
+ 
+<div align="center">
+<img src="AU.png" alt="Subscription Reminder Automation" width="700"/>
+</div>
+ 
+---
+
 ## 💼 Experience
 
 ### 📱 Flutter Mobile Developer Intern — [BMware Business Solutions Enterprises Inc.](https://www.facebook.com/BMwareBusinessSolutionsEnterprisesInc)
