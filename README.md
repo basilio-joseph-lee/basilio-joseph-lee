@@ -15,7 +15,7 @@
 ---
 
 ## 🙋 About Me
-I build interactive, user-friendly web and mobile applications — always exploring new technologies and eager to integrate AI into products that solve real problems.
+I'm a mobile and web developer specializing in modern applications across Android, iOS, and the web. I work on projects end-to-end, from concept to deployment, delivering solutions that are functional and production-ready. I continuously explore new technologies and aim to integrate advancements into impactful, real-world solutions.
 
 ---
 
